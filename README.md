@@ -1,1 +1,1 @@
-# Amazing-Numbers
+# Amazing Numbers
